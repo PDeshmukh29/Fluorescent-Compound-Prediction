@@ -1,2 +1,2 @@
 # Fluorescent-compound-prediction!
-(https://user-images.githubusercontent.com/65400086/234526544-fae506aa-3384-4017-bec6-1de33722e574.png)
+![Untitled](https://user-images.githubusercontent.com/65400086/234529785-13164fcd-d293-40d1-8095-3fed4c3ee2d1.png)
